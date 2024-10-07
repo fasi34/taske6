@@ -575,15 +575,15 @@
         .main_box4 h2 {
             color: #019c73;
             font-size: 21px;
-            padding: 15px 10px;
+            padding: 11px 10px;
             margin: 0;
         }
         
         .main_box4 h3 {
             color: #000;
             margin: 0;
-            font-size: 13.3px;
-            padding: 9px 9px;
+            font-size: 13.4px;
+            padding: 1px 9px;
             padding-bottom: 20px;
         }
         
@@ -640,10 +640,10 @@
         }
         
         .box_4 h4 {
-            font-size: 19px;
+            font-size: 18px;
             margin-left: 20px;
-            padding-top: 14px;
-            padding-bottom: 10px;
+            padding-top: 0px;
+            padding-bottom: 6px;
             font-weight: 500;
         }
         
